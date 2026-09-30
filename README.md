@@ -1,4 +1,4 @@
-# ECCTY 2025 - Herndon, Virginia
+# ECCTY 2026 - Herndon, Virginia
 
 ```
 brew install mkdocs
