@@ -32,8 +32,7 @@ Herndon, Virginia
 
 **Agenda**
 
-[Click here for the agenda PDF](resources/2025 ECCTY Presentation - Agenda Only -101625.pdf)
-
+[Click here for the agenda PDF](resources/2026 ECCTY Presentation - Agenda Only.pdf)
 
 **Feedback Survey**
 
