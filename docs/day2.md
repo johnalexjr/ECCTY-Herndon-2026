@@ -11,7 +11,7 @@ Time | Session
 
 ### Java Modernization via Application Modernization Accelerator (AMA and AMA Dev Tools)
 
-This lab provides fundamental hands-on experience with modernizing existing Java applications to WebSphere Liberty, deployed into a container platform, such as Red Hat OpenShift. 
+This lab provides fundamental hands-on experience of the evaluation process of WebSphere applications for their modernization journey to Liberty. It shows the value of using Application Modernization Accelerator (AMA) to evaluate on-premises Java applications and AMA Dev Tools to perform the required code changes.
 
   [Click to access your assigned lab environment for the labs listed below:](resources/ECCTY%20Herndon%202025%20-%20Modernizing%20to%20Liberty%20-%20Email%20and%20URLs.pdf)
 
