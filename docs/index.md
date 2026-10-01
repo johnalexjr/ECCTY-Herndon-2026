@@ -36,7 +36,7 @@ Herndon, Virginia
 
 **Feedback Survey**
 
-[Feedback Survey (Online survey only for NFCU – Others will be provided Hard Copy)](https://your.feedback.ibm.com/jfe/form/SV_6AwtyhtdIDzePCC?Q_CHL=qr)
+[Feedback Survey (Online survey only for NFCU – Others will be provided Hard Copy)](resources/ECCTY Herndon 2026 Survey .png)
 
 
 **Hands on Activities**

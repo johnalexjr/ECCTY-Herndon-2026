@@ -1,32 +1,14 @@
+<h2 style="color:black">Day 1: Integration Labs</h2>
 
-<h2 style="color:black">Day 1: Application Platform Labs</h2>
+### IBM App Connect Enterprise (ACE) Labs
 
-Time | Session 
---------------|----------
-3:00 PM - 5:00 PM | Hands-on labs
+* [ACE Labs: ACE lab Directions & Setup - Pre req for all labs](resources/ACE%20Lab%20Direction.pdf)
+* [ACE Lab: A Beginner’s Guide for Developers](resources/25L01-ToolkitBeginners.pdf)
+* [ACE lab: ACE Designer for Beginners](resources/25L02-DesignerBeginners.pdf)
+* [ACE lab: How to implement an AI RAG pattern using IBM watsonx.ai and Pinecone Vector Database Request nodes](resources/25L06-Watsonxai.pdf)
 
+### IBM MQ Labs
 
-<br/>
-
-
-### Liberty in containers and RedHat Openshift Labs
-
-This lab provides fundamental hands-on experience with modernizing existing Java applications to WebSphere Liberty, deployed into a container platform, such as Red Hat OpenShift. 
-
-  [Click to access your assigned lab environment for the labs listed below:](resources/ECCTY%20Herndon%202025%20-%20Modernizing%20to%20Liberty%20-%20Email%20and%20URLs.pdf)
-
-  - LAB 2161: [Modernizing to Liberty on RedHat OpenShift using TA and Kustomize](https://github.com/IBMTechSales/liberty-containers-deployment-labs/tree/master/2161_1-Deploy-Liberty-OCP)
-  
-   
- <br/>
-
-### IBM Modernized Runtime Extension for Java (MoRE)
-
-In this exercise, you will learn how developers can use the IBM Application Modernization Accelerator (AMA) and the IBM Application Modernization Accelerator Developer Tools (AMA Dev Tools) to modernize an existing Java Enterprise Application for the target 
-   
-  [Click to access your assigned lab environment for the labs listed below:](resources/mOre%20Workshop%20herndon%202025.pdf)
-   
-  - [IBM Modernized Runtime Extension for Java (MoRE)](https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab)
-    
-	
- <br/>
+* [MQ Lab: Setting up Sender Receiver configuration with MQ Ansible](resources/Setting%20up%20a%20Sender%20Receiver%20Configuration%20with%20MQ%20Ansible.pdf)
+* [A quick guide to installing IBM MQ using Ubuntu Linux and Ansible Galaxy](resources/A%20quick%20guide%20to%20installing%20IBM%20MQ%20using%20Ubuntu%20Linux%20and%20Ansible%20Galaxy.pdf)
+* [Get an IBM MQ queue for development running on AWS Cloud using Ansible](https://developer.ibm.com/tutorials/mq-connect-app-queue-manager-cloud-aws-ansible/)
