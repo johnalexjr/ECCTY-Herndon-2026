@@ -9,13 +9,13 @@ Time | Session
 <br/>
 
 
-### Java Modernization via Application Modernization Accelerator (AMA and AMA Dev Tools)
+### Java Modernization via Application Modernization Accelerator (AMA) and AMA Dev Tools
 
 This lab provides fundamental hands-on experience of the evaluation process of WebSphere applications for their modernization journey to Liberty. It shows the value of using Application Modernization Accelerator (AMA) to evaluate on-premises Java applications and AMA Dev Tools to perform the required code changes.
 
   [Click to access your assigned lab environment for the labs listed below:](resources/ECCTY%20Herndon%202025%20-%20Modernizing%20to%20Liberty%20-%20Email%20and%20URLs.pdf)
 
-  - LAB 2161: [Modernizing to Liberty on RedHat OpenShift using TA and Kustomize](https://github.com/IBMTechSales/liberty-containers-deployment-labs/tree/master/2161_1-Deploy-Liberty-OCP)
+  -[Java Modernization via Application Modernization Accelerator (AMA) and AMA Dev Tools](https://github.com/LarsBesselmann/LibertyGettingStarted-2026-AMA-Lab)
   
    
  <br/>
