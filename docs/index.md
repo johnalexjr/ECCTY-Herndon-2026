@@ -10,7 +10,7 @@
 Herndon, Virginia
 
 [IBM Herndon Parking Details:](resources/IBM-Herndon-parking-QRcode.png)
-[Or paste this Link on your browser;](https://app.parkmobile.io/v2/parking/zone-details?areaNo=36358792)
+[Click this Link:](https://app.parkmobile.io/v2/parking/zone-details?areaNo=36358792)
 
 
 ------------------------------------------
