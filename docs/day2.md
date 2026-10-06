@@ -13,10 +13,11 @@ Time | Session
 
 This lab provides fundamental hands-on experience of the evaluation process of WebSphere applications for their modernization journey to Liberty. It shows the value of using Application Modernization Accelerator (AMA) to evaluate on-premises Java applications and AMA Dev Tools to perform the required code changes.
 
-  [Click to access your assigned lab environment for the labs listed below:](resources/ECCTY%20Herndon%202025%20-%20Modernizing%20to%20Liberty%20-%20Email%20and%20URLs.pdf)
+  
 
   - [Java Modernization via Application Modernization Accelerator (AMA) and AMA Dev Tools](https://github.com/LarsBesselmann/LibertyGettingStarted-2026-AMA-Lab)
   
+  - Lab environment details will be assigned by presenter at the meeting:
    
  <br/>
 
