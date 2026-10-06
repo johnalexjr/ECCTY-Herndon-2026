@@ -15,7 +15,7 @@ This lab provides fundamental hands-on experience of the evaluation process of W
 
   [Click to access your assigned lab environment for the labs listed below:](resources/ECCTY%20Herndon%202025%20-%20Modernizing%20to%20Liberty%20-%20Email%20and%20URLs.pdf)
 
-  -[Java Modernization via Application Modernization Accelerator (AMA) and AMA Dev Tools](https://github.com/LarsBesselmann/LibertyGettingStarted-2026-AMA-Lab)
+  - [Java Modernization via Application Modernization Accelerator (AMA) and AMA Dev Tools](https://github.com/LarsBesselmann/LibertyGettingStarted-2026-AMA-Lab)
   
    
  <br/>
