@@ -11,9 +11,9 @@ Herndon, Virginia
 
 ------------------------------------------
 
-**Joining by Teams:**  
+**Join by Teams:**  
 
-  - Tuesday, October 6th & october 7th, 2026
+  - Tuesday, October 6th, 2026  & Wednesday, October 7th, 2026
       - [General session](https://teams.microsoft.com/meet/241586687862588?p=4Q1gx3zQ2Bsq77A6aY)
       
 
