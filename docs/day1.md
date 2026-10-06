@@ -6,4 +6,4 @@
 
 * [MQ Lab 1: Get Hands-on with the IBM MQ AI Agents - Hands-on Guide](resources/IBM-MQ-Summit-2026-Agent-Lab.pdf)
 
-* [MQ Lab 2 & Demo: Demo & Lab # 2: Lab details and images will be provided by presenter]
+* MQ Lab 2 & Demo: Lab details and images will be provided by presenter
